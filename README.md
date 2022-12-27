@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Developer
 --------------------
 
-My name is Abdellah Hattabi . I'm passionate about open source projects and I've always loved to produce a lot of content during my career I am an enthusiastic JavaScript developer who loves solving difficult technical issues. TypeScript, JavaScript, Node, Nest, 🔭 I’m Building RESTful APIs.   👯 I’m looking to collaborate on Web Development Projects . 💬 Ask me about anything. I will try to help you as much as I can. ⚡ Quote: There is always time. You just have to find it. 🏆 My favorite challenge is learn something new everyday;
+My name is Abdellah Hattabi . I'm passionate about open source projects and I've always loved to produce a lot of content during my career I am an enthusiastic JavaScript developer who loves solving difficult technical issues. TypeScript, JavaScript, Node, Nest.
+🔭 I’m Building RESTful APIs.   
+👯 I’m looking to collaborate on Web Development Projects. 
+💬 Ask me about anything. I will try to help you as much as I can. 
+⚡ Quote: There is always time. You just have to find it. 
+🏆 My favorite challenge is learn something new everyday;
 
 * ✉️  You can contact me at [abdouhtb11@gmail.com](mailto:abdouhtb11@gmail.com)
 * 🧠  I'm learning about KAFKA and GRPC With NestJS
