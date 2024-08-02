@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdellah Hattabi, I'm a Backend Developer 😉 
 =====================================================================================================================================================================
 
-Javascript Developer
+Backend Developer
 --------------------
 
-My name is Abdellah Hattabi . I'm passionate about open source projects and I've always loved to produce a lot of content during my career I am an enthusiastic JavaScript developer who loves solving difficult technical issues. TypeScript, JavaScript, Node, Nest.<br/>
+My name is Abdellah Hattabi . I'm passionate about open source projects and I've always loved to produce a lot of content during my career I am an enthusiastic JavaScript and Golang developer who loves solving difficult technical issues. TypeScript, JavaScript, Node, Nest, Golang.<br/>
 
 
 🔭 I’m Building RESTful APIs And Microservices.<br/>
